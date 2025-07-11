@@ -6,10 +6,10 @@ export default function Hero() {
     <section className="@container px-2 sm:px-8 lg:px-0 py-8 flex flex-col items-center" id="hero">
       <div
         className="flex min-h-[320px] sm:min-h-[480px] lg:min-h-[600px] flex-col gap-6 bg-cover bg-center bg-no-repeat @sm:gap-8 @sm:rounded-xl items-start justify-end px-4 pb-10 @sm:px-10 lg:px-16 w-full max-w-6xl mx-auto"
-        style={{ backgroundImage: bgUrl, fontFamily: 'Manrope, Noto Sans, sans-serif' }}
+        style={{ backgroundImage: bgUrl, fontFamily: 'Manrope, "Noto Sans", sans-serif' }}
       >
         <div className="flex flex-col gap-2 text-left">
-          <h1 className="text-white text-3xl sm:text-5xl lg:text-6xl font-black leading-tight tracking-[-0.033em]">Hi, I'm Abdullah Nasir</h1>
+          <h1 className="text-white text-3xl sm:text-5xl lg:text-6xl font-black leading-tight tracking-[-0.033em]">Hi, I&apos;m Abdullah Nasir</h1>
           <h2 className="text-white text-sm sm:text-base lg:text-lg font-normal leading-normal max-w-2xl">
             UI/UX Designer — Crafting seamless digital experiences with user-centric design.
           </h2>

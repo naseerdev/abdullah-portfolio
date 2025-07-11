@@ -32,7 +32,7 @@ export default function Home() {
                   <ul className="text-[#5c748a] text-sm font-normal leading-normal mt-2 space-y-1">
                     <li>• Led the design of several digital products from concept to delivery</li>
                     <li>• Conducted user research and usability testing to improve product experiences</li>
-                    <li>• Mentored junior designers and received "Mentoring Champion" award</li>
+                    <li>• Mentored junior designers and received &quot;Mentoring Champion&quot; award</li>
                   </ul>
                 </div>
                 <div className="flex flex-col items-center gap-1">
